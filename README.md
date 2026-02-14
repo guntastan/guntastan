@@ -40,7 +40,7 @@ scholarship recipient
 
 relevant coursework includes operating systems, computer networks, algorithms, programming languages, databases, automata theory and formal languages, software verification, machine learning, stochastic models, and game theory.
 
-metu development foundation high school
+metu development foundation high school   
 studied with merit scholarship
 
 ---
