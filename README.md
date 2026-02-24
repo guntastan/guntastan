@@ -35,13 +35,13 @@ i am most interested in problems where correctness, timing guarantees, and clari
 ## education
 
 bilkent university — computer science  
-honours degree (cgpa: 3.07)
+honours degree (cgpa: 3.07). 
 studied on a scholarship awarded through the national placement exam (ranked 1,782nd out of 2.5 million participants in the national university entrance exam).
 
 
 relevant coursework includes operating systems, computer networks, algorithms, programming languages, databases, automata theory and formal languages, software verification, machine learning, stochastic models, and game theory.
 
-metu development foundation high school   
+metu development foundation high school.    
 studied on a merit-based scholarship.
 
 ---
