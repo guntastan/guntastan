@@ -15,7 +15,7 @@ my day-to-day work involves designing and implementing platform-level building b
 - infrastructure-facing components consumed by multiple engineering teams
 
 production systems are primarily built using java within the spring ecosystem. 
-i also actively work with c++ for systems-oriented and performance-critical development (primarily through personal projects).
+i also actively work with c++ for systems-oriented and performance-critical development (primarily through personal projects.
 
 ---
 
