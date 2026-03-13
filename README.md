@@ -5,6 +5,19 @@ computer science graduate from bilkent university (honours), currently working a
 i am part of a core platform team responsible for building and maintaining common components, libraries, frameworks and shared data solutions used across the organization. my work focuses on reliability, performance and long-term maintainability, with attention to abstraction boundaries and system behavior under load.
 
 ---
+## education
+
+bilkent university — computer science  
+honours degree (cgpa: 3.07).  
+studied with a scholarship awarded through the national placement exam (ranked 1,782nd out of 2.5 million participants in the national university entrance exam).
+
+
+relevant coursework includes operating systems, computer networks, algorithms, programming languages, databases, automata theory and formal languages, software verification, machine learning, stochastic models, and game theory.
+
+metu development foundation high school.  
+studied with a merit-based scholarship.
+
+---
 
 ## current focus
 
@@ -29,20 +42,6 @@ i also actively work with c++ for systems-oriented and performance-critical deve
 - api, framework, and platform design at scale
 
 i am most interested in problems where correctness, timing guarantees, and clarity of design are first-order concerns.
-
----
-
-## education
-
-bilkent university — computer science  
-honours degree (cgpa: 3.07).  
-studied with a scholarship awarded through the national placement exam (ranked 1,782nd out of 2.5 million participants in the national university entrance exam).
-
-
-relevant coursework includes operating systems, computer networks, algorithms, programming languages, databases, automata theory and formal languages, software verification, machine learning, stochastic models, and game theory.
-
-metu development foundation high school.  
-studied with a merit-based scholarship.
 
 ---
 
